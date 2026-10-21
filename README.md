@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/direct-to-chip-liquid-cooling-explainer/
 
+Repository: https://github.com/mizcausevic-dev/direct-to-chip-liquid-cooling-explainer
+
 ## What this is
 
 An interactive anatomy plate for Direct-to-Chip Liquid Cooling. Play, scrub, or jump the five stages. The same frame always draws the same picture.
